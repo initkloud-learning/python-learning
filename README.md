@@ -13,6 +13,12 @@ pip install -r requirements.txt
 ```
 
 
+Flask Bootcamp
+- HTML
+- CSS
+- Python 
+- Flask(Python Framework)
+
 
 
 ***
